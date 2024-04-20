@@ -1,5 +1,4 @@
 # Transfer Learning in CNN with LeNet, AlexNet, and VGGNet 
-#### Expect more in coming days
 
 This project explores the implementation of transfer learning in Convolutional Neural Networks (CNN) using three popular architectures: LeNet, AlexNet, and VGGNet. The transfer learning technique leverages pre-trained models on large datasets to improve the performance of models trained on smaller datasets. In this project, we apply transfer learning to two distinct datasets: the Dog-Cat dataset and the Flowers 17 dataset.
 
@@ -35,6 +34,9 @@ Transfer learning involves using knowledge gained while solving one problem and 
   - VGGNet, proposed by Simonyan and Zisserman in 2014, is known for its simplicity and uniform architecture.
   - It consists of a series of convolutional layers with small 3x3 filters, followed by max-pooling layers and fully connected layers.
   - VGGNet achieved state-of-the-art performance on the ImageNet dataset at the time of its introduction.
+
+ - **InceptionNet**
+   - Coming Soon
 
 ## Implementation
 
